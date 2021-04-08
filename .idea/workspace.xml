@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f1dad80-39f4-4045-a171-370cc7e4b591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/java/com/gai/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/java/com/gai/pojo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/java/com/gai/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/java/com/gai/utils/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04/src/test/java/UseMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis01/mybatis01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis03/log/gai.log" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03/log/gai.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis03/src/main/java/com/gai/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03/src/main/java/com/gai/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis03/src/main/java/com/gai/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03/src/main/java/com/gai/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis03/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis03/src/test/java/com/gai/dao/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03/src/test/java/com/gai/dao/UserDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qs9zNdJ6avu4lfg1rYWSUlTH7v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis04/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31034482" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gai.dao" />
+      <recent name="com.gai.utils" />
+      <recent name="com.gai.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GAI\IdeaProjects\MybatisStudy\mybatis04\src\main\resources" />
+      <recent name="C:\Users\GAI\IdeaProjects\MybatisStudy\mybatis04\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UseMapperTest.test4">
+    <configuration name="UseMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UseMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseMapperTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UseMapperTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseMapperTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UseMapperTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseMapperTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UseMapperTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseMapperTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UseMapperTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UseMapperTest.test4" />
+        <item itemvalue="JUnit.UseMapperTest.test3" />
+        <item itemvalue="JUnit.UseMapperTest.test2" />
+        <item itemvalue="JUnit.UseMapperTest.test1" />
+        <item itemvalue="JUnit.UseMapperTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f1dad80-39f4-4045-a171-370cc7e4b591" name="Default Changelist" comment="" />
+      <created>1617857691772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617857691772</updated>
+      <workItem from="1617857693353" duration="9544000" />
+      <workItem from="1617871883512" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="33" key="#Project_Structure" timestamp="1617872712555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="591" y="33" key="#Project_Structure/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617872712555" />
+    <state x="703" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617859162589">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="703" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617859162589" />
+    <state x="916" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1617869641708">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="916" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617869641708" />
+    <state width="1329" height="170" key="GridCell.Tab.0.bottom" timestamp="1617871218345">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617871218345" />
+    <state width="1329" height="170" key="GridCell.Tab.0.center" timestamp="1617871218345">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="170" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617871218345" />
+    <state width="1329" height="170" key="GridCell.Tab.0.left" timestamp="1617871218345">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="170" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617871218345" />
+    <state width="1329" height="170" key="GridCell.Tab.0.right" timestamp="1617871218345">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="170" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617871218345" />
+    <state width="1329" height="138" key="GridCell.Tab.1.bottom" timestamp="1617869530744">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="138" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617869530744" />
+    <state width="1329" height="138" key="GridCell.Tab.1.center" timestamp="1617869530744">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="138" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617869530744" />
+    <state width="1329" height="138" key="GridCell.Tab.1.left" timestamp="1617869530743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="138" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617869530743" />
+    <state width="1329" height="138" key="GridCell.Tab.1.right" timestamp="1617869530744">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1329" height="138" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617869530744" />
+    <state x="591" y="33" key="SettingsEditor" timestamp="1617872742897">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="591" y="33" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617872742897" />
+    <state x="949" y="214" width="582" height="524" key="StructurePopup" timestamp="1617872432784">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="949" y="214" width="582" height="524" key="StructurePopup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617872432784" />
+    <state x="588" y="88" key="new project wizard" timestamp="1617861909084">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="588" y="88" key="new project wizard/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617861909084" />
+    <state x="767" y="212" key="run.anything.popup" timestamp="1617871916894">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="767" y="212" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1617871916894" />
+  </component>
+</project>
